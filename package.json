@@ -1,5 +1,5 @@
 {
-  "name": "project9999",
+  "name": "project123",
   "version": "1.0.0",
   "description": "Just a prototype",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zz-jeeevan/project9999.git"
+    "url": "https://github.com/zz-jeeevan/project123.git"
   },
   "keywords": [],
   "author": "Jeevan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zz-jeeevan/project9999/issues"
+    "url": "https://github.com/zz-jeeevan/project123/issues"
   },
   "homepage": "https://zz-jeeevan.github.io/project123/",
   "devDependencies": {
