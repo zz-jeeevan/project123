@@ -1,23 +1,22 @@
 {
-  "name": "medico_project",
+  "name": "project9999",
   "version": "1.0.0",
   "description": "Just a prototype",
   "main": "index.js",
   "scripts": {
-    "predeploy": "npm run build || echo 'No build step, continuing...'",
     "deploy": "gh-pages -d ."
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zz-jeeevan/medico_project.git"
+    "url": "https://github.com/zz-jeeevan/project9999.git"
   },
   "keywords": [],
   "author": "Jeevan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zz-jeeevan/medico_project/issues"
+    "url": "https://github.com/zz-jeeevan/project9999/issues"
   },
-  "homepage": "https://zz-jeeevan.github.io/medico_project/",
+  "homepage": "https://zz-jeeevan.github.io/project9999/",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
